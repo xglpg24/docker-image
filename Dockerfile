@@ -1,1 +1,1 @@
-FROM python:3.12.2
+FROM elastic/filebeat:8.2.3
